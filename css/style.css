@@ -1,0 +1,35 @@
+.brand-logo{
+    margin-left: 2%;
+}
+
+
+.nav-wrapper{
+    background-color: darksalmon;
+}
+
+.slider .indicators .indicator-item.active  {
+    background-color: darksalmon;
+}
+
+.move{
+    margin-top:  60 px;
+    margin-bottom:  20px;
+}
+.parallax-container{
+    min-height: 10px;
+    height: 'auto';
+}
+.icon-blog{
+    color: darksalmon;
+}
+
+.footer-one{
+    background-color: darksalmon;
+}
+.footer-two{
+    background: rgb(80, 52, 43);
+}
+.carousel-item{
+ margin-top: -100px;
+ margin-left: -100px;
+}
